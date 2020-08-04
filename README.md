@@ -16,3 +16,4 @@ Games can last a long time, and I was curious as to how long they might last. Or
 * markov_network.R : The R code for the Markov simulation and network plot.
 * hhco_markov.xlsx : Spreadsheet with the data for the Markov simulation and network plot.
 * monte_carlo.R : Original Monte Carlo simulation.
+* hhco_final.png : The network and cumulative probability of ending plots. I had to cheat a bit to make the figure, since I couldn't get the network plot arrow weights to display as fractions, only decimals.
